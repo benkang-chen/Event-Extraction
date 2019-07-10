@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000715_AFP_ARB.0054.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000715_AFP_ARB.0054.eng">
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE1">
+  <entity ID="20000715_AFP_ARB.0054.eng-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="NOM">
+      <extent>
+        <charseq START="460" END="552">19 ministers all of whom are members of the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="471">ministers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-4" TYPE="PTV">
+      <extent>
+        <charseq START="473" END="552">all of whom are members of the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="475">all</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="WHQ">
+      <extent>
+        <charseq START="480" END="483">whom</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="483">whom</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-6" TYPE="BAR">
+      <extent>
+        <charseq START="489" END="552">members of the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+      <head>
+        <charseq START="489" END="495">members</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE2">
+  <entity ID="20000715_AFP_ARB.0054.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-8" TYPE="NOM">
+      <extent>
+        <charseq START="588" END="599">17 ministers</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="599">ministers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE3">
+  <entity ID="20000715_AFP_ARB.0054.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-9" TYPE="NOM">
+      <extent>
+        <charseq START="605" END="622">2 undersecretaries</charseq>
+      </extent>
+      <head>
+        <charseq START="607" END="622">undersecretaries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE4">
+  <entity ID="20000715_AFP_ARB.0054.eng-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-11" TYPE="NOM">
+      <extent>
+        <charseq START="731" END="1024">10 new ministers selected
+from public figures and given ministerial posts for the first time,
+including a young minister named Simba Makoni appointed as head of
+the Ministry of Finance and Economic Development under circumstances
+where the country is witnessing an unprecedented economic crisis</charseq>
+      </extent>
+      <head>
+        <charseq START="738" END="746">ministers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE5">
+  <entity ID="20000715_AFP_ARB.0054.eng-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-12" TYPE="BAR">
+      <extent>
+        <charseq START="762" END="775">public figures</charseq>
+      </extent>
+      <head>
+        <charseq START="769" END="775">figures</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE6">
+  <entity ID="20000715_AFP_ARB.0054.eng-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-13" TYPE="NOM">
+      <extent>
+        <charseq START="835" END="869">a young minister named Simba Makoni</charseq>
+      </extent>
+      <head>
+        <charseq START="843" END="850">minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-14" TYPE="NAM">
+      <extent>
+        <charseq START="858" END="869">Simba Makoni</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="869">Simba Makoni</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-15" TYPE="BAR">
+      <extent>
+        <charseq START="884" END="939">head of
+the Ministry of Finance and Economic Development</charseq>
+      </extent>
+      <head>
+        <charseq START="884" END="887">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="858" END="869">Simba Makoni</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE7">
+  <entity ID="20000715_AFP_ARB.0054.eng-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="9-16" TYPE="NAM">
+      <extent>
+        <charseq START="892" END="939">the Ministry of Finance and Economic Development</charseq>
+      </extent>
+      <head>
+        <charseq START="896" END="939">Ministry of Finance and Economic Development</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="896" END="939">Ministry of Finance and Economic Development</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE8">
+  <entity ID="20000715_AFP_ARB.0054.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-17" TYPE="NAM">
+      <extent>
+        <charseq START="1040" END="1051">Stan Modinge</charseq>
+      </extent>
+      <head>
+        <charseq START="1040" END="1051">Stan Modinge</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-18" TYPE="PRO">
+      <extent>
+        <charseq START="1061" END="1063">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1061" END="1063">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1040" END="1051">Stan Modinge</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-19" TYPE="BAR">
+      <extent>
+        <charseq START="1080" END="1095">Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1095">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE9">
+  <entity ID="20000715_AFP_ARB.0054.eng-E12" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="12-20" TYPE="HLS">
+      <extent>
+        <charseq START="1118" END="1124">Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="1118" END="1124">Defense</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="NAM">
+      <extent>
+        <charseq START="1101" END="1113">Moven Mahashi</charseq>
+      </extent>
+      <head>
+        <charseq START="1101" END="1113">Moven Mahashi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1101" END="1113">Moven Mahashi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE10">
+  <entity ID="20000715_AFP_ARB.0054.eng-E14" TYPE="PER" CLASS="USP">
+    <entity_mention ID="14-23" TYPE="BAR">
+      <extent>
+        <charseq START="1308" END="1317">incumbents</charseq>
+      </extent>
+      <head>
+        <charseq START="1308" END="1317">incumbents</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE11">
+  <entity ID="20000715_AFP_ARB.0054.eng-E15" TYPE="PER" CLASS="USP">
+    <entity_mention ID="15-24" TYPE="NOM">
+      <extent>
+        <charseq START="1336" END="1358">the country's president</charseq>
+      </extent>
+      <head>
+        <charseq START="1350" END="1358">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE12">
+  <entity ID="20000715_AFP_ARB.0054.eng-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-25" TYPE="NOM">
+      <extent>
+        <charseq START="1362" END="1375">The opposition</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1375">opposition</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE13">
+  <entity ID="20000715_AFP_ARB.0054.eng-E17" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-26" TYPE="APP">
+      <extent>
+        <charseq START="1417" END="1480">the Movement
+for Democratic Change, the largest opposition party</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-27" TYPE="NAM">
+      <extent>
+        <charseq START="1417" END="1450">the Movement
+for Democratic Change</charseq>
+      </extent>
+      <head>
+        <charseq START="1421" END="1450">Movement
+for Democratic Change</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1421" END="1450">Movement
+for Democratic Change</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E18" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="18-28" TYPE="NOM">
+      <extent>
+        <charseq START="1453" END="1480">the largest opposition party</charseq>
+      </extent>
+      <head>
+        <charseq START="1476" END="1480">party</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE14">
+  <entity ID="20000715_AFP_ARB.0054.eng-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="98" END="103">Harare</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="103">Harare</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="98" END="103">Harare</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE15">
+  <entity ID="20000715_AFP_ARB.0054.eng-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="20-29" TYPE="NAM">
+      <extent>
+        <charseq START="111" END="113">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="113">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="111" END="113">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE16">
+  <entity ID="20000715_AFP_ARB.0054.eng-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="21-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="118" END="125">Zimbabwe</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="125">Zimbabwe</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-31" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="967" END="977">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="971" END="977">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-32" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1336" END="1346">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1340" END="1346">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="118" END="125">Zimbabwe</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE17">
+  <entity ID="20000715_AFP_ARB.0054.eng-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-33" TYPE="APP">
+      <extent>
+        <charseq START="118" END="151">Zimbabwe's President Robert Mugabe</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="22-34" TYPE="NOM">
+      <extent>
+        <charseq START="118" END="137">Zimbabwe's President</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="137">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-36" TYPE="PRO">
+      <extent>
+        <charseq START="205" END="206">he</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="206">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-37" TYPE="NAM">
+      <extent>
+        <charseq START="650" END="665">President Mugabe</charseq>
+      </extent>
+      <head>
+        <charseq START="660" END="665">Mugabe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="660" END="665">Mugabe</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E23" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="23-35" TYPE="NAM">
+      <extent>
+        <charseq START="139" END="151">Robert Mugabe</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="151">Robert Mugabe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="139" END="151">Robert Mugabe</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0054.eng-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-38" TYPE="PRE">
+      <extent>
+        <charseq START="650" END="658">President</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="658">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE18">
+  <entity ID="20000715_AFP_ARB.0054.eng-E25" TYPE="PER" CLASS="USP">
+    <entity_mention ID="25-39" TYPE="BAR">
+      <extent>
+        <charseq START="166" END="176">journalists</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="176">journalists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE19">
+  <entity ID="20000715_AFP_ARB.0054.eng-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="26-7" TYPE="NOM">
+      <extent>
+        <charseq START="557" END="574">The new government</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="574">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-10" TYPE="NOM">
+      <extent>
+        <charseq START="703" END="720">the new government</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="720">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-40" TYPE="NOM">
+      <extent>
+        <charseq START="219" END="234">a new government</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="234">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-42" TYPE="NOM">
+      <extent>
+        <charseq START="319" END="448">The government, which was formed following legislative elections held
+last month and which the ruling party won by a slim majority</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="332">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-43" TYPE="WHQ">
+      <extent>
+        <charseq START="335" END="339">which</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="339">which</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE20">
+  <entity ID="20000715_AFP_ARB.0054.eng-E27" TYPE="PER" CLASS="NEG">
+    <entity_mention ID="27-41" TYPE="NOM">
+      <extent>
+        <charseq START="285" END="314">no opposition members included</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="305">members</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0054.eng-CE21">
+  <entity ID="20000715_AFP_ARB.0054.eng-E28" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="28-2" TYPE="NAM">
+      <extent>
+        <charseq START="500" END="552">the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="552">Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-22" TYPE="NOM">
+      <extent>
+        <charseq START="1210" END="1225">the ruling party</charseq>
+      </extent>
+      <head>
+        <charseq START="1221" END="1225">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-44" TYPE="NOM">
+      <extent>
+        <charseq START="410" END="425">the ruling party</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="425">party</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="504" END="552">Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20000715_AFP_ARB.0054.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="118" END="137">Zimbabwe's President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E22" ENTITYMENTIONID="22-34" ARGNUM="1">
+      <extent>
+        <charseq START="118" END="137">Zimbabwe's President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E21" ENTITYMENTIONID="21-30" ARGNUM="2">
+      <extent>
+        <charseq START="118" END="125">Zimbabwe</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="205" END="234">he had formed a new government</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E22" ENTITYMENTIONID="22-36" ARGNUM="1">
+      <extent>
+        <charseq START="205" END="206">he</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E26" ENTITYMENTIONID="26-40" ARGNUM="2">
+      <extent>
+        <charseq START="219" END="234">a new government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R3" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="489" END="552">members of the Zimbabwe African
+National Union - Patriotic Front</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E2" ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="489" END="552">members of the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E28" ENTITYMENTIONID="28-2" ARGNUM="2">
+      <extent>
+        <charseq START="500" END="552">the Zimbabwe African
+National Union - Patriotic Front</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="557" END="622">The new government consists of 17 ministers and 2 undersecretaries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E3" ENTITYMENTIONID="3-8" ARGNUM="1">
+      <extent>
+        <charseq START="588" END="599">17 ministers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E26" ENTITYMENTIONID="26-7" ARGNUM="2">
+      <extent>
+        <charseq START="557" END="574">The new government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="557" END="622">The new government consists of 17 ministers and 2 undersecretaries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E4" ENTITYMENTIONID="4-9" ARGNUM="1">
+      <extent>
+        <charseq START="605" END="622">2 undersecretaries</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E26" ENTITYMENTIONID="26-7" ARGNUM="2">
+      <extent>
+        <charseq START="557" END="574">The new government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="884" END="939">head of
+the Ministry of Finance and Economic Development</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E8" ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="884" END="939">head of
+the Ministry of Finance and Economic Development</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E9" ENTITYMENTIONID="9-16" ARGNUM="2">
+      <extent>
+        <charseq START="892" END="939">the Ministry of Finance and Economic Development</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0054.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1336" END="1358">the country's president</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E15" ENTITYMENTIONID="15-24" ARGNUM="1">
+      <extent>
+        <charseq START="1336" END="1358">the country's president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0054.eng-E21" ENTITYMENTIONID="21-32" ARGNUM="2">
+      <extent>
+        <charseq START="1336" END="1346">the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>
