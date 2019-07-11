@@ -6,6 +6,7 @@ import os
 import pandas as pd
 
 from keras.layers import *
+from keras.utils.vis_utils import plot_model
 from keras.models import Model
 import keras.backend as K
 from keras.callbacks import Callback
@@ -313,6 +314,8 @@ ps2 = Lambda(lambda x: x[0][..., 0] - (1 - x[1][..., 0]) * 1e10)([ps2, x_mask])
 model = Model([x_in, c_in], [ps1, ps2])
 
 train_model = Model([x_in, c_in, s1_in, s2_in], [ps1, ps2])
+
+plot_model(model=train_model, to_file='model.jpg', show_shapes=True)
 
 loss1 = K.mean(K.categorical_crossentropy(s1_in, ps1, from_logits=True))
 loss2 = K.mean(K.categorical_crossentropy(s2_in, ps2, from_logits=True))

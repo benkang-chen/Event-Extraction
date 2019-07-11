@@ -5,6 +5,7 @@ from tqdm import tqdm
 import os
 import pandas as pd
 
+from keras.utils.vis_utils import plot_model
 from keras.layers import *
 from keras.models import Model
 import keras.backend as K
@@ -286,6 +287,7 @@ y = Dense(21, use_bias=False, activation='tanh')(x1)
 model = Model([x_in], y)
 
 train_model = Model([x_in, c_in], y)
+plot_model(model=train_model, to_file='model.jpg', show_shapes=True)
 loss = K.mean(K.categorical_crossentropy(c_in, y, from_logits=True))
 
 train_model.add_loss(loss)

@@ -24,7 +24,7 @@ class TripleExtractor:
                          postags[word_index][0] not in ['w', 'u', 'x'] and words[word_index]])
             o = ''.join([words[word_index] for word_index in range(role_info['A1'][1], role_info['A1'][2]+1) if
                          postags[word_index][0] not in ['w', 'u', 'x'] and words[word_index]])
-            if s  and o:
+            if s and o:
                 return '1', [s, v, o]
         # elif 'A0' in role_info:
         #     s = ''.join([words[word_index] for word_index in range(role_info['A0'][1], role_info['A0'][2] + 1) if

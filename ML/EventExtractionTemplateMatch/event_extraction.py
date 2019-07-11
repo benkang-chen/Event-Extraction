@@ -40,7 +40,6 @@ class EventExtraction:
 
     def having_event(self, nlp_result):
         for item in nlp_result:
-            print(item[1])
             if item[1] == 'CAUSE_OF_DEATH':
                 if item[0] in settings.trigger_fire:
                     self.event['trigger'] = item[0]
@@ -129,7 +128,7 @@ class EventExtraction:
     def pattern_cause(self):
         patterns = []
         
-        key_words = ['起火','事故','火灾']
+        key_words = ['起火', '事故', '火灾']
         pattern = re.compile('.*?(?:{0})原因(.*?)[,.?:;!，。？：；！]'.format('|'.join(key_words)))
         patterns.append(pattern)
 
